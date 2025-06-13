@@ -9,11 +9,3 @@ async function bootstrap() {
   await app.listen(process.env.PORT ?? 3000);
 }
 bootstrap();
-/*
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mirzayevmuhammad/homework14.git
-git push -u origin main
-*/
